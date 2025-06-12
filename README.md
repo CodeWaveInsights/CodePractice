@@ -9,6 +9,7 @@ console.log(b); // Output: [100, 2, 5]
 explanation: The output will be [100, 2, 5] because arrays in JavaScript are reference types.
 
 **2. What is the output of the following code?**
+
 console.log([]+[]);
 
 Explanation: The output of the code `console.log([] + []);` is an empty string (`""`).
